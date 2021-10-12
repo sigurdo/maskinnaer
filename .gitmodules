@@ -1,6 +1,6 @@
 [submodule "maskinn-r_lab_1"]
 	path = maskinn-r_lab_1
-	url = ./maskinn-r_lab_1.git
+	url = ../maskinn-r_lab_1.git
 [submodule "cache_simulator"]
 	path = cache_simulator
-	url = ./cache_simulator.git
+	url = ../cache_simulator.git
