@@ -4,3 +4,6 @@
 [submodule "cache_simulator"]
 	path = cache_simulator
 	url = ../cache_simulator.git
+[submodule "stetris"]
+	path = stetris
+	url = ../stetris.git
